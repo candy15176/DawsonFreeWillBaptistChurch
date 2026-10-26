@@ -1,0 +1,18 @@
+{
+  "title": "DawsonFreeWillBaptistChurch",
+  "description": "Connects church members and visitors with service times, events, sermons, and community resources to foster engagement and spiritual growth.",
+  "language": "en",
+  "robots": {
+    "index": false
+  },
+  "icons": {
+    "icon": "/.figma/make/favicon.png"
+  },
+  "openGraph": {
+    "image": "/.figma/make/social-image.png"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
